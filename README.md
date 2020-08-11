@@ -3,5 +3,7 @@ Using the cervical cancer dataset from the UCI datset repository, can we predict
 We will use a Multilayer Perceptron Network to achieve this. 
 
 ## Structure:
--data:contains the dataset obtained from the UCI website
+
+-data: contains the dataset obtained from the UCI website
+
 -model: contains the classification model
