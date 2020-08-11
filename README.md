@@ -7,3 +7,6 @@ We will use a Multilayer Perceptron Network to achieve this.
 -data: contains the dataset obtained from the UCI website
 
 -model: contains the classification model
+
+-eda: contains a notebook on data analysis for the dataset
+
